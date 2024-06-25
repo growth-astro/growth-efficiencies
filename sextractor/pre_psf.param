@@ -1,0 +1,18 @@
+VIGNET(45,45)
+X_IMAGE
+Y_IMAGE
+MAG_BEST
+MAGERR_BEST
+ALPHA_J2000
+DELTA_J2000
+FWHM_IMAGE
+FWHM_WORLD
+FLUX_APER
+FLUXERR_APER
+FLUX_RADIUS
+ELONGATION
+CLASS_STAR
+FLAGS
+SNR_WIN
+#SPREAD_MODEL     #NEEDS .psf#        #Spread parameter from model-fitting                      
+#SPREADERR_MODEL         # Spread parameter error from model-fitting                
