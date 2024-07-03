@@ -1,0 +1,31 @@
+NUMBER                   Running object number                                    
+MAG_ISO                  Isophotal magnitude                                       [mag]
+MAGERR_ISO               RMS error for isophotal magnitude                         [mag]
+MAG_ISOCOR               Corrected isophotal magnitude                             [mag]
+MAGERR_ISOCOR            RMS error for corrected isophotal magnitude               [mag]
+MAG_APER                 #Fixed aperture magnitude vector                           [mag]
+MAGERR_APER             # RMS error vector for fixed aperture mag.                  [mag]
+MAG_AUTO                 Kron-like elliptical aperture magnitude                   [mag]
+MAGERR_AUTO              RMS error for AUTO magnitude                              [mag]
+MAG_PETRO                Petrosian-like elliptical aperture magnitude              [mag]
+MAGERR_PETRO             RMS error for PETROsian magnitude                         [mag]
+MAG_BEST                 Best of MAG_AUTO and MAG_ISOCOR                           [mag]
+MAGERR_BEST              RMS error for MAG_BEST                                    [mag]
+BACKGROUND               Background at centroid position                           [count]
+THRESHOLD                Detection threshold above background                      [count]
+ISOAREA_IMAGE            Isophotal area above Analysis threshold                   [pixel**2]
+ISOAREAF_IMAGE           Isophotal area (filtered) above Detection threshold       [pixel**2]
+X_IMAGE                  Object position along x                                   [pixel]
+Y_IMAGE                  Object position along y                                   [pixel]
+ALPHA_J2000              Right ascension of barycenter (J2000)                     [deg]
+DELTA_J2000              Declination of barycenter (J2000)                         [deg]
+THETA_IMAGE              Position angle (CCW/x)                                    [deg]
+FWHM_IMAGE               FWHM assuming a gaussian core                             [pixel]
+FWHM_WORLD               FWHM assuming a gaussian core                             [deg]
+ELONGATION               A_IMAGE/B_IMAGE                                          
+CLASS_STAR               S/G classifier output                                    
+FLUX_RADIUS              #Fraction-of-light radii                                   [pixel]
+FLAGS                    Extraction flags                     
+MU_THRESHOLD             Analysis threshold above background                       [mag * arcsec**(-2)]
+MU_MAX                   Peak surface brightness above background                  [mag * arcsec**(-2)]
+
