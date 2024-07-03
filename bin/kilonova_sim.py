@@ -37,6 +37,7 @@ import pandas as pd
 import matplotlib
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #matplotlib.rcParams['font.family']="sans-serif"
 #matplotlib.rcParams['font.sans-serif']='Comic Sans MS'
 
@@ -49,6 +50,8 @@ matplotlib.rc('ytick', labelsize=14)
 =======
 =======
 >>>>>>> c0c83538a807f6bcd43abdaebae262482d88182f
+=======
+>>>>>>> c0c83538a807f6bcd43abdaebae262482d88182f
 font = {'family' : 'normal',
         'weight' : 'normal',
         'size'   : 16}
@@ -56,6 +59,9 @@ matplotlib.rc('xtick', labelsize=14)
 matplotlib.rc('ytick', labelsize=14)
 matplotlib.rc('font', **font)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> c0c83538a807f6bcd43abdaebae262482d88182f
+=======
 >>>>>>> c0c83538a807f6bcd43abdaebae262482d88182f
 =======
 >>>>>>> c0c83538a807f6bcd43abdaebae262482d88182f
