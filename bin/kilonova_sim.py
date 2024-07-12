@@ -47,13 +47,21 @@ matplotlib.rc('ytick', labelsize=14)
 #matplotlib.rc('font', **font)
 
 #font = {'family' : 'normal',
+<<<<<<< HEAD
  #       'weight' : 'normal',
   #      'size'   : 16}
+=======
+     #   'weight' : 'normal',
+      #  'size'   : 16}
+>>>>>>> 700f2f4e9e960bd600c1bf55334ba869b274bf57
 matplotlib.rc('xtick', labelsize=14)
 matplotlib.rc('ytick', labelsize=14)
 #matplotlib.rc('font', **font)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 700f2f4e9e960bd600c1bf55334ba869b274bf57
 from matplotlib.lines import Line2D
 import matplotlib.cm as cm
 
